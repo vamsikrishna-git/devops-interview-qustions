@@ -5,3 +5,6 @@ dfgjheigh
 linede 
 line5
 hiii is my first git file
+this is new file are to be added
+we can do the anything use the git
+this is my first file to be added to done 
