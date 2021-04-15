@@ -1,0 +1,23 @@
+git status
+git add sample.txt
+git commit -m "this is my first file
+git log 
+git push 
+git pull url
+git clone url
+git stash 
+git checkout master
+git reset head~
+git reset --hard head~
+ls
+git commit --amend
+git branch
+git branch dev
+git push -u origin master
+git log --oneline
+git stash list
+git stash
+git stash apply
+git stash drop 
+git merge merge dev
+git reset --hard head~
