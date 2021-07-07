@@ -1,0 +1,6 @@
+To record the history of the project, Gitflow workflow employs two parallel long-running branches – master and develop:
+•	Master – this branch is always ready to be released on LIVE, with everything fully tested and approved (production-ready).
+•	Hotfix – these branches are used to quickly patch production releases. These branches are a lot like release branches and feature branches except they’re based on master instead of develop.
+•	Develop – this is the branch to which all feature branches are merged and where all tests are performed. Only when everything’s been thoroughly checked and fixed it can be merged to the master.
+•	Feature – each new feature should reside in its own branch, which can be pushed to the develop branch as their parent one.
+
